@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-4.13.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../groovy/apache-groovy-sdk-2.4.21/groovy-2.4.21/lib/junit-4.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
